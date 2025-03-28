@@ -16,7 +16,7 @@ app.add_middleware(
 )
 
 # Initialize Google Gemini API
-API_KEY = "AIzaSyCdE9zByGFrIip6Ks2lJYnlCFCNmGrsiSI"  # Replace with your actual API key
+API_KEY = "<API_KEY>"  # Replace with your actual API key
 genai.configure(api_key=API_KEY)
 
 # Define request model
