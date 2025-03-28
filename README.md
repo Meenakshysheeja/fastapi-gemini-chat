@@ -18,7 +18,7 @@ A simple chatbot application using FastAPI and Google Gemini AI.
 
 2. **Set Up Virtual Environment (Recommended)**  
    ```sh
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate  # On Windows use: venv\Scripts\activate
    ```
 
